@@ -9,7 +9,7 @@ hidden layers of 64 nodes, and an output layer of 1 node. ReLu was the activatio
 choice, except for the output node which used a linear activation function. The resulting model 
 had a 15.22% mean absolute error when predicting audience rating and a 21.46% mean absolute 
 error when predicting Tomatometer rating. The model was able to make low accuracy 
-predictions for movie ratings
+predictions for movie ratings.
 
 **Model**
 
