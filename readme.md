@@ -1,7 +1,7 @@
 **Description**
 
 A deep neural network regression model was created to predict the Tomatometer and 
-audience ratings of movies. A dataset of over 17,000 movies as preprocessed and used to train 
+audience ratings of movies. A dataset of over 17,000 movies was preprocessed and used to train 
 this model. Information such as runtime, content rating, actors, authors, directors, release month, 
 and production company was either One-Hot encoded (categorical variables) or normalized 
 (continuous variables). The model was four layers deep with an input layer of 240 nodes, two 
